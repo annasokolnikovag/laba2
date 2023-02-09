@@ -1,0 +1,11 @@
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\bin\Debug\MathQuiz сокольникова.exe.config
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\bin\Debug\MathQuiz сокольникова.exe
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\bin\Debug\MathQuiz сокольникова.pdb
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz сокольникова.csproj.AssemblyReference.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz сокольникова.csproj.SuggestedBindingRedirects.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz_сокольникова.Form1.resources
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz_сокольникова.Properties.Resources.resources
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz сокольникова.csproj.GenerateResource.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz сокольникова.csproj.CoreCompileInputs.cache
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz сокольникова.exe
+C:\Users\anaso\OneDrive\Документы\вижуал\MathQuiz сокольникова\MathQuiz сокольникова\obj\Debug\MathQuiz сокольникова.pdb
